@@ -25,7 +25,7 @@ This project replicates the Amazon homepage UI while focusing on **clean structu
    ```bash
    git clone https://github.com/your-username/amazon-clone.git
 2.  Navigate to the project folder
---bash
+'''bash
 cd amazon-clone
 
 
