@@ -37,3 +37,7 @@ This project replicates the Amazon homepage UI while focusing on **clean structu
 2. Backend integration for a complete e-commerce experience
 
 3. Improved responsive design for all screen sizes
+---
+## 5. ❤️ Acknowledgements
+
+1. This project is a learning milestone — my first step into the world of web development. Inspired by the Amazon UI.
