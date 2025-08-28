@@ -20,12 +20,12 @@ This project replicates the Amazon homepage UI while focusing on **clean structu
 * Font Awesome (icons)
 
 ---
-## 4. 📂 Installation & Usage  
+## 3. 📂 Installation & Usage  
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/amazon-clone.git
-Navigate to the project folder
-
+2.  Navigate to the project folder
+--bash
 cd amazon-clone
 
 
