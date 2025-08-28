@@ -28,3 +28,12 @@ This project replicates the Amazon homepage UI while focusing on **clean structu
      ```bash
       cd amazon-clone
 3.   Open index.html in your browser
+
+---
+## 4. 📌 Future Improvements
+
+1. Add JavaScript for interactivity (search, cart system, login flow)
+
+2. Backend integration for a complete e-commerce experience
+
+3. Improved responsive design for all screen sizes
