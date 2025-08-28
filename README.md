@@ -1,2 +1,20 @@
 # Amazon-Clone-project
-My first web dev project: a front-end Amazon Clone built with HTML &amp; CSS. Features a responsive navbar with search &amp; cart, product grid with multiple categories, and a multi-section footer. Focused on clean UI, reusable code, and scalable layouts. Next: adding JS interactivity &amp; backend.
+# 🛒 Amazon Clone  
+
+My **first web development project** — a front-end **Amazon Clone** built using **HTML & CSS**.  
+This project replicates the Amazon homepage UI while focusing on **clean structure, reusable components, and responsive design**.  
+
+---
+
+## 1. 🚀 Features  
+* Responsive **navigation bar** with search & cart  
+* **Product grid system** for multiple categories (deals, fashion, gaming, essentials)  
+* **Multi-section footer** inspired by Amazon  
+* Clean & scalable **HTML + CSS structure**  
+
+---
+
+## 2. 🛠️ Tech Stack  
+* HTML5  
+* CSS3  
+* Font Awesome (icons)  
