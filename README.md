@@ -17,4 +17,16 @@ This project replicates the Amazon homepage UI while focusing on **clean structu
 ## 2. 🛠️ Tech Stack  
 * HTML5  
 * CSS3  
-* Font Awesome (icons)  
+* Font Awesome (icons)
+
+---
+## 4. 📂 Installation & Usage  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/amazon-clone.git
+Navigate to the project folder
+
+cd amazon-clone
+
+
+Open index.html in your browser
