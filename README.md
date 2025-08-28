@@ -27,6 +27,4 @@ This project replicates the Amazon homepage UI while focusing on **clean structu
 2.  Navigate to the project folder
      ```bash
       cd amazon-clone
-
-
-Open index.html in your browser
+3.   Open index.html in your browser
